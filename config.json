@@ -1,10 +1,10 @@
 {
-  "contactOwner": "6281617247994",
-  "ownerNumber": ["6281617247994@s.whatsapp.net"],
-  "botName": "Botz Nanat",
-  "ownerName": "Nanat Store",
-  "pathimg": "./temp/c1d72f60-593d-4af0-b187-efab100a9b48_mh1664946144022.jpg",
-  "footer": "Nanat",
+  "contactOwner": "6281390492911",
+  "ownerNumber": ["6281390492911@s.whatsapp.net"],
+  "botName": "RIFATBOTZ",
+  "ownerName": "KENAL RIFAT?",
+  "pathimg": "./temp/IMG-20221029-WA0099.jpg",
+  "footer": "RIFATBOTZ",
   "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
   "payment": {
     "gopay": {
